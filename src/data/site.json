@@ -1,0 +1,43 @@
+{
+  "brand": "Velo",
+  "descriptor": "Four houses. Every part, set out in full.",
+  "meta": {
+    "title": "Velo",
+    "description": "Performance bikes read part by part: photos, prices and full technical data, with a switch down to plain English."
+  },
+  "seo": { "siteUrl": "https://velo.example", "ogImage": "/og.jpg" },
+  "company": { "name": "Velo", "email": "hello@velo.example", "placeholder": true },
+  "hero": {
+    "headline": "Made slowly. Ridden fast.",
+    "alt": "Riders on an empty road at first light",
+    "focal": "50% 40%"
+  },
+  "statement": {
+    "lines": ["Every maker has a temper.", "Pick the one that matches yours."],
+    "accent": "temper"
+  },
+  "brandsScene": { "headline": "Choose a house." },
+  "guideTeaser": {
+    "headline": "Spec sheets, decoded.",
+    "line": "Flip the switch. Same bike, plain English."
+  },
+  "outro": {
+    "headline": "Still undecided? Park two side by side.",
+    "cta": { "label": "Compare two bikes", "href": "/compare" }
+  },
+  "independence": "Velo is an independent showcase, not affiliated with or endorsed by any maker. Names and photos belong to their owners.",
+  "footerAbout": {
+    "title": "About Velo",
+    "text": "Velo began as a way to read spec sheets without squinting. Every bike here comes from the maker's own numbers, set out part by part with the source beside it. Nothing is for sale. If a figure is wrong, say so and it gets fixed.",
+    "links": [
+      { "label": "How the data is gathered", "href": "/about" },
+      { "label": "Report a mistake", "href": "/contact" }
+    ]
+  },
+  "nav": [
+    { "label": "Bikes", "href": "/bikes" },
+    { "label": "Compare", "href": "/compare" },
+    { "label": "Decoder", "href": "/guide" }
+  ],
+  "social": [{ "label": "Instagram", "href": "https://www.instagram.com/" }]
+}

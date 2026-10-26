@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "notFound": "This road does not appear in the Velo showcase.",
+    "bikes": "Browse modern road bikes from every brand in the Velo showcase.",
+    "compare": "Compare road bike specifications side by side.",
+    "guide": "A plain-English guide to road bike specifications.",
+    "about": "How Velo presents bike data and images as an independent showcase.",
+    "contact": "Send Velo a correction, partnership note or press enquiry."
+  },
+  "notFound": {
+    "title": "Wrong turn.",
+    "back": "Back to the start"
+  },
+  "bikes": {
+    "title": "The lineup.",
+    "empty": "Nothing matches. Loosen a filter."
+  },
+  "compare": {
+    "title": "Side by side.",
+    "empty": "Nothing here yet. Add a bike from any maker.",
+    "browse": "Browse bikes"
+  },
+  "guide": {
+    "title": "Spec sheets, decoded.",
+    "intro": "Same bike, two ways to read it. Start with the plain version."
+  },
+  "about": {
+    "title": "Independent, and says so."
+  },
+  "contact": {
+    "title": "Spotted a mistake?",
+    "submit": "Send it over",
+    "success": "Got it. Thanks."
+  },
+  "detail": {
+    "simple": "Simple",
+    "full": "Full spec"
+  },
+  "model": {
+    "brandSite": "See it at {brand}",
+    "correction": "Spotted a mistake?",
+    "gallery": "View {bike} {angle} photo full screen"
+  },
+  "brand": {
+    "browse": "Browse {brand} models",
+    "open": "See {name}"
+  },
+  "footer": {
+    "explore": "Bikes and guides"
+  }
+}

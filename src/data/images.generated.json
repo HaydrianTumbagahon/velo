@@ -1,0 +1,476 @@
+{
+  "credits": {
+    "pinarello": {
+      "holder": "Pinarello"
+    },
+    "specialized": {
+      "holder": "Specialized"
+    },
+    "factor": {
+      "holder": "Factor"
+    },
+    "canyon": {
+      "holder": "Canyon"
+    }
+  },
+  "families": {
+    "pinarello/dogma-f": {
+      "side": {
+        "width": 8000,
+        "height": 5996,
+        "widths": [
+          640,
+          1280,
+          1920
+        ],
+        "alpha": true
+      }
+    },
+    "pinarello/dogma-x": {
+      "side": {
+        "width": 7999,
+        "height": 5996,
+        "widths": [
+          640,
+          1280,
+          1920
+        ],
+        "alpha": true
+      },
+      "detail-1": {
+        "width": 6000,
+        "height": 4497,
+        "widths": [
+          640,
+          1280,
+          1920
+        ],
+        "alpha": true
+      }
+    },
+    "pinarello/x-series": {
+      "side": {
+        "width": 8000,
+        "height": 5996,
+        "widths": [
+          640,
+          1280,
+          1920
+        ],
+        "alpha": true
+      },
+      "detail-1": {
+        "width": 8000,
+        "height": 5996,
+        "widths": [
+          640,
+          1280,
+          1920
+        ],
+        "alpha": true
+      },
+      "detail-2": {
+        "width": 8000,
+        "height": 5996,
+        "widths": [
+          640,
+          1280,
+          1920
+        ],
+        "alpha": true
+      },
+      "detail-3": {
+        "width": 8000,
+        "height": 5996,
+        "widths": [
+          640,
+          1280,
+          1920
+        ],
+        "alpha": true
+      },
+      "detail-4": {
+        "width": 8000,
+        "height": 5996,
+        "widths": [
+          640,
+          1280,
+          1920
+        ],
+        "alpha": true
+      }
+    },
+    "pinarello/bolide": {
+      "side": {
+        "width": 4000,
+        "height": 2998,
+        "widths": [
+          640,
+          1280,
+          1920
+        ],
+        "alpha": true
+      }
+    }
+  },
+  "pinarello/bolide-f-hr-3d-replica": {
+    "side": {
+      "width": 6000,
+      "height": 4497,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "pinarello/bolide-f-hr-3d": {
+    "side": {
+      "width": 4000,
+      "height": 2998,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "pinarello/bolide-f-hr-c": {
+    "side": {
+      "width": 4000,
+      "height": 2998,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "pinarello/bolide-f-tt": {
+    "side": {
+      "width": 4000,
+      "height": 2998,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "pinarello/crossista-f9": {
+    "side": {
+      "width": 8000,
+      "height": 5996,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "pinarello/dogma-f-edizione-speciale-tissot": {
+    "side": {
+      "width": 8000,
+      "height": 5996,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "pinarello/dogma-f-ineos-team-replica": {
+    "lifestyle": {
+      "width": 8000,
+      "height": 5996,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "pinarello/dogma-f-pq3-team-replica": {
+    "lifestyle": {
+      "width": 8000,
+      "height": 5996,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "pinarello/maat-italia-s": {
+    "side": {
+      "width": 8000,
+      "height": 5996,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "pinarello/f1-105": {
+    "side": {
+      "width": 8000,
+      "height": 5996,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "pinarello/x1-105": {
+    "side": {
+      "width": 4000,
+      "height": 2998,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "specialized/tarmac-sl7-sport-105": {
+    "detail-1": {
+      "width": 1280,
+      "height": 1280,
+      "widths": [
+        640,
+        1280
+      ],
+      "alpha": false
+    }
+  },
+  "specialized/s-works-tarmac-sl9-ltd": {
+    "detail-1": {
+      "width": 1280,
+      "height": 1280,
+      "widths": [
+        640,
+        1280
+      ],
+      "alpha": false
+    }
+  },
+  "specialized/tarmac-sl9-comp-105-di2": {
+    "detail-1": {
+      "width": 1280,
+      "height": 1280,
+      "widths": [
+        640,
+        1280
+      ],
+      "alpha": false
+    }
+  },
+  "factor/aluto": {
+    "detail-1": {
+      "width": 4472,
+      "height": 4472,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "factor/bugatti-factor-one": {
+    "detail-1": {
+      "width": 4472,
+      "height": 4472,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "factor/elara": {
+    "detail-1": {
+      "width": 4472,
+      "height": 4472,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "factor/hanzo-track": {
+    "detail-1": {
+      "width": 4472,
+      "height": 4472,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "factor/hanzo": {
+    "detail-1": {
+      "width": 4472,
+      "height": 4472,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "factor/hanzo-track-paris-edition": {
+    "detail-1": {
+      "width": 4472,
+      "height": 4472,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "factor/lando-ht": {
+    "detail-1": {
+      "width": 4472,
+      "height": 4472,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "factor/monza": {
+    "detail-1": {
+      "width": 4472,
+      "height": 4472,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    },
+    "detail-2": {
+      "width": 4472,
+      "height": 4472,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "factor/o2-vam": {
+    "detail-1": {
+      "width": 1600,
+      "height": 1600,
+      "widths": [
+        640,
+        1280
+      ],
+      "alpha": true
+    }
+  },
+  "factor/one": {
+    "detail-1": {
+      "width": 4472,
+      "height": 4472,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    },
+    "detail-2": {
+      "width": 2000,
+      "height": 2000,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    },
+    "detail-3": {
+      "width": 2000,
+      "height": 2000,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "factor/ostro-vam": {
+    "detail-1": {
+      "width": 1600,
+      "height": 1600,
+      "widths": [
+        640,
+        1280
+      ],
+      "alpha": true
+    }
+  },
+  "factor/raiden": {
+    "detail-1": {
+      "width": 4472,
+      "height": 4472,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "factor/sarana": {
+    "detail-1": {
+      "width": 2000,
+      "height": 2000,
+      "widths": [
+        640,
+        1280,
+        1920
+      ],
+      "alpha": true
+    }
+  },
+  "site/hero": {
+    "width": 1200,
+    "height": 675,
+    "widths": [
+      1280,
+      1920,
+      2560
+    ],
+    "alpha": false,
+    "luma": 0.39982908836891795
+  }
+}

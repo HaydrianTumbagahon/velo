@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "pinarello",
+    "name": "Pinarello",
+    "origin": "Treviso, Italy",
+    "founded": 1952,
+    "blurb": "Treviso builds bikes the way tailors cut suits: lopsided on purpose, and proud of it.",
+    "website": "https://pinarello.com",
+    "mediaUrl": null,
+    "featured": true,
+    "groupBy": "family",
+    "theme": { "bg": "#F2EDE8", "ink": "#15110F", "accent": "#8E1B2C", "font": "Newsreader" },
+    "motion": {
+      "ease": "expo.inOut",
+      "duration": 1.3,
+      "stagger": 0.14,
+      "reveal": "mask",
+      "transition": "curtain"
+    },
+    "layout": "cinema"
+  },
+  {
+    "slug": "specialized",
+    "name": "Specialized",
+    "origin": "Morgan Hill, USA",
+    "founded": 1974,
+    "blurb": "A Californian maker that puts the rider first and builds the frame around that decision.",
+    "website": "https://www.specialized.com",
+    "mediaUrl": null,
+    "featured": true,
+    "groupBy": "family",
+    "theme": { "bg": "#F4F4F2", "ink": "#0E0E0E", "accent": "#E5322D", "font": "Archivo" },
+    "motion": {
+      "ease": "power4.out",
+      "duration": 0.45,
+      "stagger": 0.05,
+      "reveal": "slide",
+      "transition": "slash"
+    },
+    "layout": "split"
+  },
+  {
+    "slug": "factor",
+    "name": "Factor",
+    "origin": "Norfolk, UK",
+    "founded": 2016,
+    "blurb": "Engineers who mould their own carbon and would rather show you the data than the lifestyle shots.",
+    "website": "https://factorbikes.com",
+    "mediaUrl": null,
+    "featured": true,
+    "groupBy": "discipline",
+    "theme": { "bg": "#ECEEEF", "ink": "#0A0C0E", "accent": "#FF5B14", "font": "JetBrains Mono" },
+    "motion": {
+      "ease": "power1.inOut",
+      "duration": 0.7,
+      "stagger": 0.03,
+      "reveal": "type",
+      "transition": "grid"
+    },
+    "layout": "blueprint"
+  },
+  {
+    "slug": "canyon",
+    "name": "Canyon",
+    "origin": "Koblenz, Germany",
+    "founded": 1985,
+    "blurb": "Sold direct from Koblenz. The bike arrives in a box and you finish the last bit yourself.",
+    "website": "https://www.canyon.com",
+    "mediaUrl": "https://media-centre.canyon.com",
+    "featured": true,
+    "groupBy": "family",
+    "theme": { "bg": "#FAFAF8", "ink": "#111111", "accent": "#2F6FED", "font": "Hanken Grotesk" },
+    "motion": {
+      "ease": "power2.out",
+      "duration": 0.9,
+      "stagger": 0.08,
+      "reveal": "fade",
+      "transition": "fade"
+    },
+    "layout": "editorial"
+  }
+]

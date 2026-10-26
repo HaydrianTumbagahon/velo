@@ -1,0 +1,3760 @@
+[
+  {
+    "brand": "pinarello",
+    "family": "Dogma F",
+    "slug": "dogma-f-dura-ace-di2",
+    "name": "Dogma F Dura-Ace Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "Pinarello's top race bike and the INEOS Grenadiers WorldTour bike. Asymmetric design, M40X and T1100 carbon, about 30–32 mm tyre clearance.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-f"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma F",
+    "slug": "dogma-f-sram-red-etap-axs",
+    "name": "Dogma F SRAM Red eTap AXS",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "Pinarello's top race bike and the INEOS Grenadiers WorldTour bike. Asymmetric design, M40X and T1100 carbon, about 30–32 mm tyre clearance.",
+    "facts": {
+      "Groupset": "SRAM Red eTap AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-f"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma F",
+    "slug": "dogma-f-super-record-13",
+    "name": "Dogma F Super Record 13",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "Pinarello's top race bike and the INEOS Grenadiers WorldTour bike. Asymmetric design, M40X and T1100 carbon, about 30–32 mm tyre clearance.",
+    "facts": {
+      "Groupset": "Campagnolo Super Record 13"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-f"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma F",
+    "slug": "dogma-f-super-record-wrl",
+    "name": "Dogma F Super Record WRL",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "Pinarello's top race bike and the INEOS Grenadiers WorldTour bike. Asymmetric design, M40X and T1100 carbon, about 30–32 mm tyre clearance.",
+    "facts": {
+      "Groupset": "Campagnolo Super Record WRL"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-f"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma F",
+    "slug": "dogma-f-1k",
+    "name": "Dogma F 1K",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "Premium, luxury version",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-f"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma F",
+    "slug": "dogma-f-edizione-speciale-tissot",
+    "name": "Dogma F Edizione Speciale Tissot",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "Special edition",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-f"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma F",
+    "slug": "dogma-f-edizione-speciale-giro-50",
+    "name": "Dogma F Edizione Speciale Giro 50",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "Special edition",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-f"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma F",
+    "slug": "dogma-f-ineos-team-replica",
+    "name": "Dogma F Ineos Team Replica",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "Team replica",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-f"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma F",
+    "slug": "dogma-f-pq3-team-replica",
+    "name": "Dogma F PQ3 Team Replica",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "Team replica",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-f"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "F Series",
+    "slug": "f9-dura-ace-di2",
+    "name": "F9 Dura-Ace Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible race platform. Dogma F design DNA (asymmetric frame, Onda fork, aero keel) with lower carbon grades: T900 on higher models, T700 and T600 below. Up to about 32 mm tyres.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "F Series",
+    "slug": "f7-sram-force-axs",
+    "name": "F7 SRAM Force AXS",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible race platform. Dogma F design DNA (asymmetric frame, Onda fork, aero keel) with lower carbon grades: T900 on higher models, T700 and T600 below. Up to about 32 mm tyres.",
+    "facts": {
+      "Groupset": "SRAM Force AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "F Series",
+    "slug": "f7-ultegra-di2",
+    "name": "F7 Ultegra Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible race platform. Dogma F design DNA (asymmetric frame, Onda fork, aero keel) with lower carbon grades: T900 on higher models, T700 and T600 below. Up to about 32 mm tyres.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "F Series",
+    "slug": "f5-105-di2",
+    "name": "F5 105 Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible race platform. Dogma F design DNA (asymmetric frame, Onda fork, aero keel) with lower carbon grades: T900 on higher models, T700 and T600 below. Up to about 32 mm tyres.",
+    "facts": {
+      "Groupset": "Shimano 105 Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "F Series",
+    "slug": "f3-105-di2",
+    "name": "F3 105 Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible race platform. Dogma F design DNA (asymmetric frame, Onda fork, aero keel) with lower carbon grades: T900 on higher models, T700 and T600 below. Up to about 32 mm tyres.",
+    "facts": {
+      "Groupset": "Shimano 105 Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "F Series",
+    "slug": "f1-105",
+    "name": "F1 105",
+    "discipline": "Road",
+    "category": "Race",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible race platform. Dogma F design DNA (asymmetric frame, Onda fork, aero keel) with lower carbon grades: T900 on higher models, T700 and T600 below. Up to about 32 mm tyres.",
+    "facts": {
+      "Groupset": "Shimano 105"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma X",
+    "slug": "dogma-x-dura-ace-di2",
+    "name": "Dogma X Dura-Ace Di2",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": null,
+    "tagline": null,
+    "summary": "The endurance Dogma: higher stack, shorter reach, more compliance and about 35–40 mm of tyre clearance.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-x"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma X",
+    "slug": "dogma-x-sram-red-etap-axs",
+    "name": "Dogma X SRAM Red eTap AXS",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": null,
+    "tagline": null,
+    "summary": "The endurance Dogma: higher stack, shorter reach, more compliance and about 35–40 mm of tyre clearance.",
+    "facts": {
+      "Groupset": "SRAM Red eTap AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-x"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma X",
+    "slug": "dogma-x-super-record-13",
+    "name": "Dogma X Super Record 13",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": null,
+    "tagline": null,
+    "summary": "The endurance Dogma: higher stack, shorter reach, more compliance and about 35–40 mm of tyre clearance.",
+    "facts": {
+      "Groupset": "Campagnolo Super Record 13"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-x"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma X",
+    "slug": "dogma-x-super-record-wrl",
+    "name": "Dogma X Super Record WRL",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": null,
+    "tagline": null,
+    "summary": "The endurance Dogma: higher stack, shorter reach, more compliance and about 35–40 mm of tyre clearance.",
+    "facts": {
+      "Groupset": "Campagnolo Super Record WRL"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "pinarello",
+      "slug": "dogma-x"
+    }
+  },
+  {
+    "brand": "pinarello",
+    "family": "X Series",
+    "slug": "x9-dura-ace-di2",
+    "name": "X9 Dura-Ace Di2",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible endurance platform, derived from the Dogma X, with different carbon grades by level. More upright, wider tyre clearance.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "X Series",
+    "slug": "x9-sram-red-axs",
+    "name": "X9 SRAM Red AXS",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible endurance platform, derived from the Dogma X, with different carbon grades by level. More upright, wider tyre clearance.",
+    "facts": {
+      "Groupset": "SRAM Red AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "X Series",
+    "slug": "x7-ultegra-di2",
+    "name": "X7 Ultegra Di2",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible endurance platform, derived from the Dogma X, with different carbon grades by level. More upright, wider tyre clearance.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "X Series",
+    "slug": "x5-105-di2",
+    "name": "X5 105 Di2",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible endurance platform, derived from the Dogma X, with different carbon grades by level. More upright, wider tyre clearance.",
+    "facts": {
+      "Groupset": "Shimano 105 Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "X Series",
+    "slug": "x3-105-di2",
+    "name": "X3 105 Di2",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible endurance platform, derived from the Dogma X, with different carbon grades by level. More upright, wider tyre clearance.",
+    "facts": {
+      "Groupset": "Shimano 105 Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "X Series",
+    "slug": "x1-105",
+    "name": "X1 105",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": null,
+    "tagline": null,
+    "summary": "The more accessible endurance platform, derived from the Dogma X, with different carbon grades by level. More upright, wider tyre clearance.",
+    "facts": {
+      "Groupset": "Shimano 105"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Bolide",
+    "slug": "bolide-f-hr-3d",
+    "name": "Bolide F HR 3D",
+    "discipline": "Track",
+    "category": "Hour record",
+    "price": null,
+    "tagline": null,
+    "summary": "Hour Record focus, 3D-printed elements",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Bolide",
+    "slug": "bolide-f-hr-3d-replica",
+    "name": "Bolide F HR 3D Replica",
+    "discipline": "Track",
+    "category": "Hour record",
+    "price": null,
+    "tagline": null,
+    "summary": "Pinarello's hour-record, time-trial, triathlon and track family.",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Bolide",
+    "slug": "bolide-f-hr-c",
+    "name": "Bolide F HR C",
+    "discipline": "Track",
+    "category": "Hour record",
+    "price": null,
+    "tagline": null,
+    "summary": "The carbon version for the track",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Bolide",
+    "slug": "bolide-hr",
+    "name": "Bolide HR",
+    "discipline": "Track",
+    "category": "Hour record",
+    "price": null,
+    "tagline": null,
+    "summary": "The classic Hour Record bike",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Bolide",
+    "slug": "maat-italia-s",
+    "name": "Maat Italia S",
+    "discipline": "Track",
+    "category": "Track",
+    "price": null,
+    "tagline": null,
+    "summary": "Pinarello's hour-record, time-trial, triathlon and track family.",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Bolide",
+    "slug": "bolide-f-tt",
+    "name": "Bolide F TT",
+    "discipline": "Triathlon & TT",
+    "category": "Time trial",
+    "price": null,
+    "tagline": null,
+    "summary": "Time-trial version",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Bolide",
+    "slug": "bolide-f-tr-framekit",
+    "name": "Bolide F TR Framekit",
+    "discipline": "Triathlon & TT",
+    "category": "Triathlon",
+    "price": null,
+    "tagline": null,
+    "summary": "Dedicated triathlon bike",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Crossista",
+    "slug": "crossista-f9",
+    "name": "Crossista F9",
+    "discipline": "Cyclocross",
+    "category": "Cyclocross",
+    "price": null,
+    "tagline": null,
+    "summary": "Cyclocross bikes for mud and obstacles.",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Crossista",
+    "slug": "crossista-f7",
+    "name": "Crossista F7",
+    "discipline": "Cyclocross",
+    "category": "Cyclocross",
+    "price": null,
+    "tagline": null,
+    "summary": "Cyclocross bikes for mud and obstacles.",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Nytro",
+    "slug": "nytro-e9-road-dura-ace-di2",
+    "name": "Nytro E9 Road Dura-Ace Di2",
+    "discipline": "E-Road",
+    "category": "E-road",
+    "price": null,
+    "tagline": null,
+    "summary": "Power-assisted road bikes.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Nytro",
+    "slug": "nytro-e7-road-ultegra-di2",
+    "name": "Nytro E7 Road Ultegra Di2",
+    "discipline": "E-Road",
+    "category": "E-road",
+    "price": null,
+    "tagline": null,
+    "summary": "Power-assisted road bikes.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Nytro",
+    "slug": "nytro-e5-road-105-di2",
+    "name": "Nytro E5 Road 105 Di2",
+    "discipline": "E-Road",
+    "category": "E-road",
+    "price": null,
+    "tagline": null,
+    "summary": "Power-assisted road bikes.",
+    "facts": {
+      "Groupset": "Shimano 105 Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma F",
+    "slug": "dogma-f",
+    "name": "Dogma F",
+    "year": 2026,
+    "category": "Race",
+    "featured": true,
+    "dataStatus": "partial",
+    "verifiedAt": "2026-10",
+    "tagline": "Lopsided on purpose.",
+    "summary": "Pinarello's flagship road bike and the successor to the Dogma F12. It stays a one-bike answer: no separate aero or climbing frame.",
+    "price": {
+      "amount": 15750,
+      "currency": "USD",
+      "asOf": "2026, complete builds from, per a US retailer",
+      "note": "Check Pinarello for current pricing."
+    },
+    "facts": {
+      "Frame": "Carbon, asymmetric design",
+      "Brakes": "Disc",
+      "Wheels": "700C",
+      "Tyres": "28 mm fitted"
+    },
+    "specs": {
+      "Frame": {
+        "Material": "Carbon",
+        "Layout": "Asymmetric, flatback tube profiles"
+      },
+      "Fork": {
+        "Material": "Carbon",
+        "Axle-to-crown length": "373 mm",
+        "Rake": "47 mm"
+      },
+      "Wheels & tyres": {
+        "Wheel size": "700C (622 mm BSD)",
+        "Tyre width (build)": "28 mm",
+        "Tyre outer diameter": "678 mm"
+      }
+    },
+    "geometry": {
+      "sizes": [
+        430,
+        465,
+        500,
+        515,
+        530,
+        540,
+        550,
+        575,
+        595,
+        620
+      ],
+      "note": "Pinarello's own size scale.",
+      "rows": {
+        "Stack (mm)": [
+          502,
+          517.3,
+          525.2,
+          532.1,
+          542.4,
+          551,
+          561.5,
+          584.8,
+          613.2,
+          651.6
+        ],
+        "Reach (mm)": [
+          351.5,
+          365.4,
+          372.2,
+          378.2,
+          383.3,
+          385.3,
+          389.2,
+          396.7,
+          393.4,
+          410
+        ],
+        "Head angle (°)": [
+          69.5,
+          70.5,
+          71.4,
+          72,
+          72.5,
+          72.8,
+          72.8,
+          73.7,
+          73.4,
+          73.4
+        ],
+        "Seat angle (°)": [
+          74.4,
+          74.4,
+          74,
+          73.7,
+          73.7,
+          73.4,
+          73.4,
+          73,
+          72.4,
+          72
+        ],
+        "Head tube (mm)": [
+          102,
+          109,
+          114,
+          119,
+          128,
+          136,
+          147,
+          168,
+          204,
+          244
+        ],
+        "BB drop (mm)": [
+          67,
+          72,
+          72,
+          72,
+          72,
+          72,
+          72,
+          72,
+          67,
+          67
+        ],
+        "Chainstay (mm)": [
+          407,
+          407,
+          407,
+          407,
+          407,
+          408,
+          408,
+          409,
+          409,
+          411
+        ],
+        "Wheelbase (mm)": [
+          965.8,
+          973.5,
+          974.9,
+          977.7,
+          981.5,
+          984.4,
+          991.5,
+          998.2,
+          1008.8,
+          1038.8
+        ],
+        "Trail (mm)": [
+          76.6,
+          70.2,
+          64.5,
+          60.7,
+          57.6,
+          55.7,
+          55.7,
+          50.2,
+          52,
+          52
+        ]
+      }
+    },
+    "sources": [
+      {
+        "label": "Geometry via BikeInsights (from pinarello.com)",
+        "url": "https://bikeinsights.com/bike-geometries/69cd96101936c2001bf62bc2-2026-pinarello-dogma-f-620"
+      },
+      {
+        "label": "Range and price, retailer page",
+        "url": "https://www.racycles.com/bikes/urban/pinarello-treviso-carbon-disk-bike-12592"
+      }
+    ],
+    "discipline": "Road",
+    "base": true
+  },
+  {
+    "brand": "pinarello",
+    "family": "Dogma X",
+    "slug": "dogma-x",
+    "name": "Dogma X",
+    "year": 2026,
+    "category": "All-road",
+    "dataStatus": "basic",
+    "verifiedAt": "2026-10",
+    "tagline": "The Dogma, taking the back roads.",
+    "summary": "The Dogma platform adapted for mixed-terrain and all-road riding, with an endurance character.",
+    "price": null,
+    "facts": {},
+    "sources": [
+      {
+        "label": "Range overview, retailer page",
+        "url": "https://www.racycles.com/bikes/urban/pinarello-treviso-carbon-disk-bike-12592"
+      }
+    ],
+    "discipline": "Road",
+    "base": true
+  },
+  {
+    "brand": "specialized",
+    "family": "Tarmac SL9",
+    "slug": "s-works-tarmac-sl9-ltd",
+    "name": "S-Works Tarmac SL9 LTD",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 14999.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Remco Evenepoel \"Built for Legends\" edition",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Tarmac SL9",
+    "slug": "s-works-tarmac-sl9-sram-red-axs",
+    "name": "S-Works Tarmac SL9 SRAM RED AXS",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 13999.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "The current race platform: aggressive geometry, aero and light. S-Works is the top tier; S-Level, Expert and Comp step down in spec.",
+    "facts": {
+      "Groupset": "SRAM RED AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Tarmac SL9",
+    "slug": "s-works-tarmac-sl9-dura-ace-di2",
+    "name": "S-Works Tarmac SL9 Dura-Ace Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 13499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "The current race platform: aggressive geometry, aero and light. S-Works is the top tier; S-Level, Expert and Comp step down in spec.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Tarmac SL9",
+    "slug": "tarmac-sl9-s-level-dura-ace-di2",
+    "name": "Tarmac SL9 S-Level Dura-Ace Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 9999.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "The current race platform: aggressive geometry, aero and light. S-Works is the top tier; S-Level, Expert and Comp step down in spec.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Tarmac SL9",
+    "slug": "tarmac-sl9-s-level-sram-red-axs",
+    "name": "Tarmac SL9 S-Level SRAM RED AXS",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 10499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "The current race platform: aggressive geometry, aero and light. S-Works is the top tier; S-Level, Expert and Comp step down in spec.",
+    "facts": {
+      "Groupset": "SRAM RED AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Tarmac SL9",
+    "slug": "tarmac-sl9-expert-sram-force-axs",
+    "name": "Tarmac SL9 Expert SRAM Force AXS",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 6999.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "The current race platform: aggressive geometry, aero and light. S-Works is the top tier; S-Level, Expert and Comp step down in spec.",
+    "facts": {
+      "Groupset": "SRAM Force AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Tarmac SL9",
+    "slug": "tarmac-sl9-expert-ultegra-di2",
+    "name": "Tarmac SL9 Expert Ultegra Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 6499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "The current race platform: aggressive geometry, aero and light. S-Works is the top tier; S-Level, Expert and Comp step down in spec.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Tarmac SL9",
+    "slug": "tarmac-sl9-comp-sram-rival-axs",
+    "name": "Tarmac SL9 Comp SRAM Rival AXS",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 4499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "The current race platform: aggressive geometry, aero and light. S-Works is the top tier; S-Level, Expert and Comp step down in spec.",
+    "facts": {
+      "Groupset": "SRAM Rival AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Tarmac SL9",
+    "slug": "tarmac-sl9-comp-105-di2",
+    "name": "Tarmac SL9 Comp 105 Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 4199.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "The current race platform: aggressive geometry, aero and light. S-Works is the top tier; S-Level, Expert and Comp step down in spec.",
+    "facts": {
+      "Groupset": "Shimano 105 Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Aethos 2",
+    "slug": "s-works-aethos-2-sram-red-axs",
+    "name": "S-Works Aethos 2 SRAM RED AXS",
+    "discipline": "Road",
+    "category": "Climbing",
+    "price": {
+      "amount": 13999.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Ultra-lightweight climbing road bike: minimal weight and ride quality over pure aero.",
+    "facts": {
+      "Groupset": "SRAM RED AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Aethos 2",
+    "slug": "s-works-aethos-2-dura-ace-di2",
+    "name": "S-Works Aethos 2 Dura-Ace Di2",
+    "discipline": "Road",
+    "category": "Climbing",
+    "price": {
+      "amount": 13999.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Ultra-lightweight climbing road bike: minimal weight and ride quality over pure aero.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Aethos 2",
+    "slug": "aethos-2-pro-sram-force-axs",
+    "name": "Aethos 2 Pro SRAM Force AXS",
+    "discipline": "Road",
+    "category": "Climbing",
+    "price": {
+      "amount": 8499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Ultra-lightweight climbing road bike: minimal weight and ride quality over pure aero.",
+    "facts": {
+      "Groupset": "SRAM Force AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Aethos 2",
+    "slug": "aethos-2-pro-ultegra-di2",
+    "name": "Aethos 2 Pro Ultegra Di2",
+    "discipline": "Road",
+    "category": "Climbing",
+    "price": {
+      "amount": 8499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Ultra-lightweight climbing road bike: minimal weight and ride quality over pure aero.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Aethos 2",
+    "slug": "aethos-2-expert-sram-force-axs",
+    "name": "Aethos 2 Expert SRAM Force AXS",
+    "discipline": "Road",
+    "category": "Climbing",
+    "price": {
+      "amount": 6999.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Ultra-lightweight climbing road bike: minimal weight and ride quality over pure aero.",
+    "facts": {
+      "Groupset": "SRAM Force AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Aethos 2",
+    "slug": "aethos-2-expert-ultegra-di2",
+    "name": "Aethos 2 Expert Ultegra Di2",
+    "discipline": "Road",
+    "category": "Climbing",
+    "price": {
+      "amount": 6499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Ultra-lightweight climbing road bike: minimal weight and ride quality over pure aero.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Roubaix SL8",
+    "slug": "s-works-roubaix-sl8-sram-red-axs",
+    "name": "S-Works Roubaix SL8 SRAM RED AXS",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 12499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Also listed at $12,249.99",
+    "facts": {
+      "Groupset": "SRAM RED AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "specialized",
+      "slug": "roubaix-sl8"
+    }
+  },
+  {
+    "brand": "specialized",
+    "family": "Roubaix SL8",
+    "slug": "s-works-roubaix-sl8-dura-ace-di2",
+    "name": "S-Works Roubaix SL8 Dura-Ace Di2",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 12249.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Endurance road bike with Future Shock suspension, a higher stack, more compliance and more tyre clearance for all-day comfort and rough roads.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "specialized",
+      "slug": "roubaix-sl8"
+    }
+  },
+  {
+    "brand": "specialized",
+    "family": "Roubaix SL8",
+    "slug": "roubaix-sl8-pro-sram-force-axs",
+    "name": "Roubaix SL8 Pro SRAM Force AXS",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 8499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Endurance road bike with Future Shock suspension, a higher stack, more compliance and more tyre clearance for all-day comfort and rough roads.",
+    "facts": {
+      "Groupset": "SRAM Force AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "specialized",
+      "slug": "roubaix-sl8"
+    }
+  },
+  {
+    "brand": "specialized",
+    "family": "Roubaix SL8",
+    "slug": "roubaix-sl8-expert-sram-force-axs",
+    "name": "Roubaix SL8 Expert SRAM Force AXS",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 6499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Endurance road bike with Future Shock suspension, a higher stack, more compliance and more tyre clearance for all-day comfort and rough roads.",
+    "facts": {
+      "Groupset": "SRAM Force AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "specialized",
+      "slug": "roubaix-sl8"
+    }
+  },
+  {
+    "brand": "specialized",
+    "family": "Roubaix SL8",
+    "slug": "roubaix-sl8-comp-105-di2",
+    "name": "Roubaix SL8 Comp 105 Di2",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 4199.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Endurance road bike with Future Shock suspension, a higher stack, more compliance and more tyre clearance for all-day comfort and rough roads.",
+    "facts": {
+      "Groupset": "Shimano 105 Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "specialized",
+      "slug": "roubaix-sl8"
+    }
+  },
+  {
+    "brand": "specialized",
+    "family": "Roubaix SL8",
+    "slug": "roubaix-sl8-sport-105",
+    "name": "Roubaix SL8 Sport 105",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 3499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Endurance road bike with Future Shock suspension, a higher stack, more compliance and more tyre clearance for all-day comfort and rough roads.",
+    "facts": {
+      "Groupset": "Shimano 105"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "specialized",
+      "slug": "roubaix-sl8"
+    }
+  },
+  {
+    "brand": "specialized",
+    "family": "Roubaix SL8",
+    "slug": "roubaix-sl8-tiagra",
+    "name": "Roubaix SL8 Tiagra",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 2999.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Endurance road bike with Future Shock suspension, a higher stack, more compliance and more tyre clearance for all-day comfort and rough roads.",
+    "facts": {
+      "Groupset": "Shimano Tiagra"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "specialized",
+      "slug": "roubaix-sl8"
+    }
+  },
+  {
+    "brand": "specialized",
+    "family": "Turbo Creo 2",
+    "slug": "s-works-turbo-creo-2-sram-red-xx1-eagle-axs",
+    "name": "S-Works Turbo Creo 2 SRAM RED XX1 Eagle AXS",
+    "discipline": "E-Road",
+    "category": "E-road",
+    "price": {
+      "amount": 13499.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Also listed at $12,799.99",
+    "facts": {
+      "Groupset": "SRAM RED / XX1 Eagle AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Turbo Creo 2",
+    "slug": "turbo-creo-2-expert-shimano-grx-di2",
+    "name": "Turbo Creo 2 Expert Shimano GRX Di2",
+    "discipline": "E-Road",
+    "category": "E-road",
+    "price": {
+      "amount": 8999.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Also listed at $8,549.99",
+    "facts": {
+      "Groupset": "Shimano GRX Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Turbo Creo 2",
+    "slug": "turbo-creo-2-comp-shimano-grx-di2",
+    "name": "Turbo Creo 2 Comp Shimano GRX Di2",
+    "discipline": "E-Road",
+    "category": "E-road",
+    "price": {
+      "amount": 6999.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Lightweight e-road and gravel-capable bike with Specialized's Turbo motor system, for mixed surfaces and longer rides.",
+    "facts": {
+      "Groupset": "Shimano GRX Di2"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Turbo Creo 2",
+    "slug": "turbo-creo-2-comp-sram-apex-x1-eagle-axs",
+    "name": "Turbo Creo 2 Comp SRAM Apex X1 Eagle AXS",
+    "discipline": "E-Road",
+    "category": "E-road",
+    "price": {
+      "amount": 5599.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Lightweight e-road and gravel-capable bike with Specialized's Turbo motor system, for mixed surfaces and longer rides.",
+    "facts": {
+      "Groupset": "SRAM Apex / X1 Eagle AXS"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Turbo Creo 2",
+    "slug": "turbo-creo-2-comp-e5-sram-apex-eagle",
+    "name": "Turbo Creo 2 Comp E5 SRAM Apex Eagle",
+    "discipline": "E-Road",
+    "category": "E-road",
+    "price": {
+      "amount": 5099.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Also listed at $4,499.99",
+    "facts": {
+      "Groupset": "SRAM Apex Eagle"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Allez",
+    "slug": "allez-comp-105",
+    "name": "Allez Comp 105",
+    "discipline": "Road",
+    "category": "Entry",
+    "price": {
+      "amount": 2099.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Aluminium road bikes: Specialized's entry and training options.",
+    "facts": {
+      "Groupset": "Shimano 105"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Allez",
+    "slug": "allez-cues",
+    "name": "Allez CUES",
+    "discipline": "Road",
+    "category": "Entry",
+    "price": {
+      "amount": 1599.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Aluminium road bikes: Specialized's entry and training options.",
+    "facts": {
+      "Groupset": "Shimano CUES"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Tarmac SL7",
+    "slug": "tarmac-sl7-sport-105",
+    "name": "Tarmac SL7 Sport 105",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 3299.99,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Starting at",
+    "facts": {
+      "Groupset": "Shimano 105"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "specialized",
+    "family": "Roubaix SL8",
+    "slug": "roubaix-sl8",
+    "name": "Roubaix SL8",
+    "year": 2026,
+    "category": "Endurance",
+    "dataStatus": "partial",
+    "verifiedAt": "2026-10",
+    "tagline": "For roads that never got the memo.",
+    "summary": "Specialized's endurance road bike: a taller front end and a longer fork for comfort over distance.",
+    "price": null,
+    "facts": {
+      "Sizes": "44, 49, 52, 54, 56, 58, 61"
+    },
+    "geometry": {
+      "sizes": [
+        44,
+        49,
+        52,
+        54,
+        56,
+        58,
+        61
+      ],
+      "note": "Fork length 375 mm.",
+      "rows": {
+        "Rider height (cm)": [
+          "142–152",
+          "155–163",
+          "163–170",
+          "170–178",
+          "175–180",
+          "180–188",
+          "188–196"
+        ],
+        "Stack (mm)": [
+          543,
+          549,
+          566,
+          585,
+          605,
+          630,
+          665
+        ],
+        "Reach (mm)": [
+          353,
+          363,
+          370,
+          381,
+          389,
+          397,
+          403
+        ],
+        "Head angle (°)": [
+          69.3,
+          70.8,
+          71.5,
+          72.3,
+          73,
+          73,
+          73.5
+        ],
+        "Head tube (mm)": [
+          90,
+          90,
+          105,
+          122,
+          140,
+          168,
+          202
+        ],
+        "BB drop (mm)": [
+          80,
+          80,
+          80,
+          78,
+          78,
+          78,
+          78
+        ],
+        "Trail (mm)": [
+          76,
+          66,
+          62,
+          61,
+          57,
+          57,
+          54
+        ],
+        "Fork rake (mm)": [
+          52,
+          52,
+          52,
+          47,
+          47,
+          47,
+          47
+        ],
+        "Front centre (mm)": [
+          589,
+          587,
+          593,
+          598,
+          604,
+          620,
+          631
+        ],
+        "Standover (mm)": [
+          686,
+          719,
+          747,
+          766,
+          787,
+          809,
+          847
+        ]
+      }
+    },
+    "sources": [
+      {
+        "label": "Geometry, Performance Bicycle",
+        "url": "https://www.performancebike.com/specialized-sworks-roubaix-sl8-frameset-satin-metallic-ink-white-sage-74423-004-p/p1552815"
+      }
+    ],
+    "discipline": "Road",
+    "base": true
+  },
+  {
+    "brand": "specialized",
+    "slug": "tarmac-sl8",
+    "name": "Tarmac SL8",
+    "year": 2026,
+    "category": "Race",
+    "featured": true,
+    "dataStatus": "full",
+    "verifiedAt": "2026-10",
+    "tagline": "Light first, fast second.",
+    "summary": "Specialized's all-round race bike: a 685 g claimed frame, 32 mm tyre clearance and the same proven geometry as the SL7. Shown in S-Works Dura-Ace Di2 build.",
+    "price": {
+      "amount": 14000,
+      "currency": "USD",
+      "asOf": "launch RRP, S-Works Dura-Ace Di2",
+      "note": "Check Specialized for current pricing."
+    },
+    "facts": {
+      "Frame": "S-Works FACT 12r carbon, 685 g claimed",
+      "Weight": "6.6 kg, size 56 built",
+      "Groupset": "Shimano Dura-Ace Di2, 12-speed",
+      "Wheels": "Roval Rapide CLX III carbon",
+      "Brakes": "Hydraulic disc, 160/140 mm rotors",
+      "Tyre clearance": "32 mm",
+      "Cockpit": "Roval Rapide integrated bar/stem",
+      "Sizes": "44, 49, 52, 54, 56, 58, 61"
+    },
+    "specs": {
+      "Frame": {
+        "Material": "S-Works FACT 12r carbon",
+        "Claimed frame weight": "685 g",
+        "Bottom bracket": "Threaded (BSA)",
+        "Rear axle": "12×142 mm thru-axle",
+        "Brake mount": "Flat-mount disc",
+        "Routing": "Clean routing",
+        "Tyre clearance": "32 mm"
+      },
+      "Drivetrain": {
+        "Shifters": "Shimano Dura-Ace R9270 Di2, hydraulic",
+        "Rear derailleur": "Dura-Ace R9250, 12-speed",
+        "Front derailleur": "Dura-Ace R9250, braze-on",
+        "Cassette": "Dura-Ace 12-speed, 11–30T",
+        "Crankset": "Dura-Ace R9200 HollowTech II, 52/36T, 4iiii dual-sided power meter",
+        "Bottom bracket": "Dura-Ace BB-R9100"
+      },
+      "Brakes": {
+        "Calipers": "Dura-Ace BR-R9270 hydraulic disc",
+        "Rotors": "160 mm front, 140 mm rear"
+      },
+      "Wheels & tyres": {
+        "Wheels": "Roval Rapide CLX III, carbon, tubeless-ready",
+        "Tyres": "S-Works Turbo TLR Race, 700×28C"
+      },
+      "Cockpit & contact points": {
+        "Cockpit": "Roval Rapide integrated bar/stem",
+        "Seatpost": "S-Works Tarmac SL8 FACT carbon, 15 mm offset"
+      }
+    },
+    "claims": [
+      "Frame 15% lighter than the Tarmac SL7",
+      "33% better stiffness-to-weight than the SL7",
+      "6% smoother in the saddle than the SL7",
+      "16.6 seconds faster over 40 km than the SL7"
+    ],
+    "colours": [
+      {
+        "name": "Gloss Metallic White Silver / Pearl"
+      },
+      {
+        "name": "Gloss Solidity Red / Black / Pearl"
+      }
+    ],
+    "geometry": {
+      "sizes": [
+        44,
+        49,
+        52,
+        54,
+        56,
+        58,
+        61
+      ],
+      "note": "Fork length 370 mm.",
+      "rows": {
+        "Rider height (cm)": [
+          "142–155",
+          "155–163",
+          "163–170",
+          "170–175",
+          "175–180",
+          "180–188",
+          "188–196"
+        ],
+        "Stack (mm)": [
+          501,
+          514,
+          527,
+          544,
+          565,
+          591,
+          612
+        ],
+        "Reach (mm)": [
+          366,
+          375,
+          380,
+          384,
+          395,
+          402,
+          408
+        ],
+        "Head angle (°)": [
+          70.5,
+          71.75,
+          72.5,
+          73,
+          73.5,
+          73.5,
+          74
+        ],
+        "Head tube (mm)": [
+          99,
+          109,
+          120,
+          137,
+          157,
+          184,
+          204
+        ],
+        "BB height (mm)": [
+          266,
+          266,
+          266,
+          268,
+          268,
+          268,
+          268
+        ],
+        "BB drop (mm)": [
+          74,
+          74,
+          74,
+          72,
+          72,
+          72,
+          72
+        ],
+        "Trail (mm)": [
+          71,
+          63,
+          58,
+          58,
+          55,
+          55,
+          52
+        ],
+        "Fork rake (mm)": [
+          47,
+          47,
+          47,
+          44,
+          44,
+          44,
+          44
+        ],
+        "Front centre (mm)": [
+          572,
+          574,
+          577,
+          579,
+          592,
+          606,
+          613
+        ],
+        "Standover (mm)": [
+          723,
+          735,
+          746,
+          768,
+          786,
+          808,
+          834
+        ]
+      }
+    },
+    "sources": [
+      {
+        "label": "BikeRadar, Tarmac SL8 first look",
+        "url": "https://www.bikeradar.com/features/bike-of-the-week/specialized-tarmac-sl8"
+      },
+      {
+        "label": "Spec listing, Velonova",
+        "url": "https://www.velonova.lt/en/s-works-tarmac-sl8-road-bike-shimano-dura-ace-di2-gloss-metallic-white-silver-pearl-26491-1"
+      },
+      {
+        "label": "Geometry, Performance Bicycle",
+        "url": "https://www.performancebike.com/specialized-tarmac-sl8-frameset-74924-71-p/p1514164"
+      }
+    ],
+    "family": "Tarmac SL8"
+  },
+  {
+    "brand": "specialized",
+    "slug": "allez-e5",
+    "name": "Allez E5",
+    "category": "Race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [],
+    "family": "Allez E5"
+  },
+  {
+    "brand": "specialized",
+    "slug": "allez-e5-comp",
+    "name": "Allez E5 Comp",
+    "category": "Race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [],
+    "family": "Allez E5 Comp"
+  },
+  {
+    "brand": "specialized",
+    "slug": "tarmac-sl7-sport",
+    "name": "Tarmac SL7 Sport",
+    "category": "Race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [],
+    "family": "Tarmac SL7 Sport"
+  },
+  {
+    "brand": "specialized",
+    "slug": "roubaix-sl8-s-works",
+    "name": "Roubaix SL8 S-Works",
+    "category": "Endurance",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Axs",
+      "Di2",
+      "Etap"
+    ],
+    "family": "Roubaix SL8 S-Works"
+  },
+  {
+    "brand": "specialized",
+    "slug": "roubaix-sl8-sport",
+    "name": "Roubaix SL8 Sport",
+    "category": "Endurance",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [],
+    "family": "Roubaix SL8 Sport"
+  },
+  {
+    "brand": "specialized",
+    "slug": "roubaix-sl8-pro",
+    "name": "Roubaix SL8 Pro",
+    "category": "Endurance",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [],
+    "family": "Roubaix SL8 Pro"
+  },
+  {
+    "brand": "specialized",
+    "slug": "roubaix-sl8-expert",
+    "name": "Roubaix SL8 Expert",
+    "category": "Endurance",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [],
+    "family": "Roubaix SL8 Expert"
+  },
+  {
+    "brand": "specialized",
+    "slug": "roubaix-sl8-comp",
+    "name": "Roubaix SL8 Comp",
+    "category": "Endurance",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Di2"
+    ],
+    "family": "Roubaix SL8 Comp"
+  },
+  {
+    "brand": "specialized",
+    "slug": "tarmac-sl9-s-works",
+    "name": "Tarmac SL9 S-Works",
+    "category": "Race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Axs",
+      "Di2"
+    ],
+    "family": "Tarmac SL9 S-Works"
+  },
+  {
+    "brand": "specialized",
+    "slug": "tarmac-sl9",
+    "name": "Tarmac SL9",
+    "category": "Race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Axs",
+      "Di2"
+    ],
+    "family": "Tarmac SL9"
+  },
+  {
+    "brand": "specialized",
+    "slug": "tarmac-sl9-expert",
+    "name": "Tarmac SL9 Expert",
+    "category": "Race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Axs",
+      "Di2"
+    ],
+    "family": "Tarmac SL9 Expert"
+  },
+  {
+    "brand": "specialized",
+    "slug": "tarmac-sl9-comp",
+    "name": "Tarmac SL9 Comp",
+    "category": "Race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Axs",
+      "Di2"
+    ],
+    "family": "Tarmac SL9 Comp"
+  },
+  {
+    "brand": "specialized",
+    "slug": "aethos-s-works",
+    "name": "Aethos S-Works",
+    "category": "Race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Axs",
+      "Di2"
+    ],
+    "family": "Aethos S-Works"
+  },
+  {
+    "brand": "specialized",
+    "slug": "aethos-pro",
+    "name": "Aethos Pro",
+    "category": "Race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Axs",
+      "Di2"
+    ],
+    "family": "Aethos Pro"
+  },
+  {
+    "brand": "specialized",
+    "slug": "aethos-expert",
+    "name": "Aethos Expert",
+    "category": "Race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Axs",
+      "Di2"
+    ],
+    "family": "Aethos Expert"
+  },
+  {
+    "brand": "factor",
+    "family": "ONE SP",
+    "slug": "one-sp",
+    "name": "ONE SP",
+    "discipline": "Road",
+    "category": "Aero race",
+    "price": {
+      "amount": 12799,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "The ONE platform set up for time trials and triathlon with the dedicated ONE SP Bar",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "factor",
+    "slug": "one",
+    "name": "ONE",
+    "category": "Aero race",
+    "tagline": null,
+    "summary": "Flagship aero road race bike with a Bayonet fork and chin fairing",
+    "price": {
+      "amount": 11999,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "featured": false,
+    "variants": [
+      "Red"
+    ],
+    "family": "ONE",
+    "discipline": "Road"
+  },
+  {
+    "brand": "factor",
+    "slug": "ostro-vam",
+    "name": "Ostro VAM",
+    "year": 2026,
+    "category": "Aero race",
+    "featured": true,
+    "dataStatus": "partial",
+    "verifiedAt": "2026-10",
+    "tagline": "Aero that forgot to be heavy.",
+    "summary": "Factor's WorldTour aero road bike: a 900 g frame and a built weight under 7 kg.",
+    "price": {
+      "amount": 10399,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "facts": {
+      "Frame": "Carbon, 900 g",
+      "Weight": "Under 7 kg built, per Factor",
+      "Tyre clearance": "32 mm",
+      "Sizes": "45–61"
+    },
+    "claims": [
+      "250 g lighter and 7 W faster than its predecessor",
+      "Raced at WorldTour level"
+    ],
+    "sources": [
+      {
+        "label": "Factor Bikes, product index",
+        "url": "https://factorbikes.com/llms.txt"
+      },
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "family": "OSTRO VAM",
+    "discipline": "Road"
+  },
+  {
+    "brand": "factor",
+    "slug": "monza",
+    "name": "Monza",
+    "year": 2026,
+    "category": "Race",
+    "dataStatus": "partial",
+    "verifiedAt": "2026-10",
+    "tagline": "The race bike with a glovebox.",
+    "summary": "Ostro VAM handling and aerodynamics in a simpler, more practical frame, with storage inside the down tube.",
+    "price": {
+      "amount": 6999,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "facts": {
+      "Frame": "Carbon, in-frame storage",
+      "Tyre clearance": "34 mm",
+      "Wheels": "Black Inc Forty Five",
+      "Cockpit": "Integrated semi-aero bar/stem",
+      "Sizes": "49, 52, 54, 56, 58, 61"
+    },
+    "specs": {
+      "Frame": {
+        "Fork/frame joint": "Planar break",
+        "Steerer": "Round, 1.5″ bearing",
+        "Rear derailleur standard": "UDH compatible",
+        "Storage": "In-frame down-tube compartment"
+      }
+    },
+    "claims": [
+      "In-frame storage saves up to 6 W versus a saddle bag"
+    ],
+    "colours": [
+      {
+        "name": "Steel Green"
+      },
+      {
+        "name": "Pearl White"
+      },
+      {
+        "name": "Solar Blue"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Factor Bikes, product index",
+        "url": "https://factorbikes.com/llms.txt"
+      },
+      {
+        "label": "BikeRadar, Monza",
+        "url": "https://www.bikeradar.com/factor-monza"
+      },
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "family": "MONZA",
+    "discipline": "Road"
+  },
+  {
+    "brand": "factor",
+    "slug": "o2-vam",
+    "name": "O2 VAM",
+    "year": 2026,
+    "category": "Aero climbing",
+    "dataStatus": "partial",
+    "verifiedAt": "2026-10",
+    "tagline": "Built for the steep bit.",
+    "summary": "A carbon aero climbing bike that starts at 6.4 kg built with Dura-Ace Di2.",
+    "price": {
+      "amount": 11299,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "facts": {
+      "Weight": "From 6.4 kg with Dura-Ace Di2, per Factor"
+    },
+    "claims": [
+      "5 W behind the Ostro VAM in the wind tunnel"
+    ],
+    "sources": [
+      {
+        "label": "Factor Bikes, product index",
+        "url": "https://factorbikes.com/llms.txt"
+      },
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "family": "O2 VAM",
+    "discipline": "Road"
+  },
+  {
+    "brand": "factor",
+    "family": "ONE SpongeBob Edition",
+    "slug": "one-spongebob-edition",
+    "name": "ONE SpongeBob Edition",
+    "discipline": "Road",
+    "category": "Aero race",
+    "price": {
+      "amount": 12299,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Limited edition ONE with SpongeBob SquarePants and Patrick Star graphics (Mighty Jaxx collaboration)",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "factor",
+    "family": "Bugatti Factor ONE",
+    "slug": "bugatti-factor-one",
+    "name": "Bugatti Factor ONE",
+    "discipline": "Road",
+    "category": "Aero race",
+    "price": {
+      "amount": 23599,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Limited run of 250 units",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "factor",
+    "family": "ELARA",
+    "slug": "elara",
+    "name": "ELARA",
+    "discipline": "Gravel",
+    "category": "Aero gravel",
+    "price": {
+      "amount": 10099,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Race-speed aero gravel bike with road-derived geometry and a ONE-inspired wide fork",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "factor",
+    "slug": "sarana",
+    "name": "Sarana",
+    "category": "Gravel",
+    "tagline": null,
+    "summary": "Race-endurance gravel bike for ultra-distance and self-supported events",
+    "price": {
+      "amount": 8699,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "featured": false,
+    "variants": [
+      "Blue",
+      "Red"
+    ],
+    "family": "SARANA",
+    "discipline": "Gravel"
+  },
+  {
+    "brand": "factor",
+    "family": "ALUTO",
+    "slug": "aluto",
+    "name": "ALUTO",
+    "discipline": "Gravel",
+    "category": "Gravel",
+    "price": {
+      "amount": 7899,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Versatile gravel bike, agile on mixed terrain, with in-frame storage and a higher stack",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "factor",
+    "family": "Lando XC Fox",
+    "slug": "lando-xc-fox",
+    "name": "Lando XC Fox",
+    "discipline": "Mountain",
+    "category": "Cross-country",
+    "price": {
+      "amount": 9899,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Full-suspension XC bike with about 120 mm front and 115 mm rear travel",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "factor",
+    "slug": "lando-ht",
+    "name": "Lando HT",
+    "category": "Mountain",
+    "tagline": null,
+    "summary": "Hardtail XC bike",
+    "price": {
+      "amount": 7099,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "featured": false,
+    "variants": [
+      "Blue"
+    ],
+    "family": "Lando HT",
+    "discipline": "Mountain"
+  },
+  {
+    "brand": "factor",
+    "family": "SLiCK",
+    "slug": "slick",
+    "name": "SLiCK",
+    "discipline": "Triathlon & TT",
+    "category": "Triathlon",
+    "price": {
+      "amount": 7999,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Dedicated triathlon bike with nutrition storage, bento box mounts and in-frame storage",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "factor",
+    "slug": "hanzo",
+    "name": "Hanzo",
+    "category": "Triathlon",
+    "tagline": null,
+    "summary": "UCI time-trial bike with a very narrow front end and high stiffness",
+    "price": {
+      "amount": 11499,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "featured": false,
+    "variants": [
+      "Chrome"
+    ],
+    "family": "HANZŌ",
+    "discipline": "Triathlon & TT"
+  },
+  {
+    "brand": "factor",
+    "slug": "hanzo-track",
+    "name": "Hanzo Track",
+    "category": "Triathlon",
+    "tagline": null,
+    "summary": "Pursuit track bike used by the Australian team at Paris 2024",
+    "price": {
+      "amount": 11299,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "featured": false,
+    "variants": [],
+    "family": "HANZŌ Track",
+    "discipline": "Track"
+  },
+  {
+    "brand": "factor",
+    "family": "HANZŌ Track Paris Edition",
+    "slug": "hanzo-track-paris-edition",
+    "name": "HANZŌ Track Paris Edition",
+    "discipline": "Track",
+    "category": "Pursuit",
+    "price": null,
+    "tagline": null,
+    "summary": "Special Olympic edition of the HANZŌ Track",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "factor",
+    "family": "RAIDEN",
+    "slug": "raiden",
+    "name": "RAIDEN",
+    "discipline": "Track",
+    "category": "Mass start",
+    "price": {
+      "amount": 7399,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Mass-start track bike for sprint, Madison, omnium and points races",
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "factor",
+    "slug": "aluto-quattro",
+    "name": "Aluto Quattro",
+    "category": "Gravel",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Grey",
+      "Red"
+    ]
+  },
+  {
+    "brand": "factor",
+    "slug": "lando-xc",
+    "name": "Lando XC",
+    "category": "Mountain",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Orange"
+    ]
+  },
+  {
+    "brand": "factor",
+    "slug": "one-tri",
+    "name": "ONE TRI",
+    "category": "Aero race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Chrome",
+      "Red"
+    ]
+  },
+  {
+    "brand": "factor",
+    "slug": "ostro-vam-v2",
+    "name": "Ostro VAM V2",
+    "category": "Aero race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "brand": "factor",
+    "slug": "raiden-track",
+    "name": "Raiden Track",
+    "category": "Track",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": []
+  },
+  {
+    "brand": "factor",
+    "slug": "slick-v3",
+    "name": "SLiCK V3",
+    "category": "Triathlon",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Force"
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Aeroad",
+    "slug": "aeroad-cfr-axs",
+    "name": "Aeroad CFR AXS",
+    "discipline": "Road",
+    "category": "Aero race",
+    "price": {
+      "amount": 7999,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's aero road bike: streamlined tubes, integrated cockpit and aerodynamic seatpost. Tyre clearance up to 30 mm, per Canyon's category text.",
+    "facts": {
+      "Groupset": "SRAM Red AXS",
+      "Wheels": "DT Swiss ARC 1100",
+      "Frame": "Carbon (CFR)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "inherit": {
+      "brand": "canyon",
+      "slug": "aeroad-cfr-di2"
+    }
+  },
+  {
+    "brand": "canyon",
+    "slug": "aeroad-cfr-di2",
+    "name": "Aeroad CFR Di2",
+    "year": 2026,
+    "category": "Aero race",
+    "featured": true,
+    "dataStatus": "partial",
+    "verifiedAt": "2026-10",
+    "tagline": "Wind is the opponent.",
+    "summary": "The fourth-generation Aeroad: peloton-grade aerodynamics with room for 32 mm tyres. Shown in the CFR Tensor build.",
+    "price": {
+      "amount": 7999,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2 R9270, 12-speed",
+      "Wheels": "DT Swiss ARC 1100",
+      "Frame": "Carbon, fourth-generation Aeroad",
+      "Weight": "7.36 kg as listed",
+      "Tyre clearance": "32 mm",
+      "Cockpit": "Canyon CP0048 one-piece carbon, interchangeable drops"
+    },
+    "specs": {
+      "Frame": {
+        "Generation": "Fourth-generation Aeroad",
+        "Rear axle": "12×142 mm thru-axle",
+        "Front derailleur hanger": "Removable",
+        "Bottom bracket": "PF 86.5"
+      },
+      "Fork": {
+        "Model": "Canyon FK0137 CF Disc aero fork",
+        "Front axle": "12×100 mm"
+      },
+      "Drivetrain": {
+        "Rear derailleur": "Dura-Ace Di2 RD-R9250, 12-speed",
+        "Front derailleur": "Dura-Ace Di2 FD-R9250",
+        "Cassette": "Dura-Ace CS-R9200, 11–30",
+        "Crankset": "Dura-Ace Di2 power-meter crank, 172.5 mm, 2 chainrings"
+      },
+      "Cockpit & contact points": {
+        "Handlebar and stem": "Canyon CP0048 one-piece carbon, integrated",
+        "Adjustment": "Interchangeable drops; 20 mm height and 50 mm width adjustment without shortening the stem",
+        "Saddle": "Selle Italia Flite Boost Kit Carbonio Superflow MVDP"
+      }
+    },
+    "sources": [
+      {
+        "label": "Spec sheet, Bike Magazin",
+        "url": "https://www.bike-magazin.de/en/brands/canyon/model/aeroad-cfr-tensor-6a02e5e2c167db2d1952c6de/"
+      },
+      {
+        "label": "Spec data, 99 Spokes",
+        "url": "https://99spokes.com/bikes/canyon/2026/aeroad-cfr-di2"
+      },
+      {
+        "label": "Supplied by the site owner"
+      }
+    ],
+    "family": "Aeroad",
+    "discipline": "Road"
+  },
+  {
+    "brand": "canyon",
+    "family": "Aeroad",
+    "slug": "aeroad-cf-slx-8-axs-speed",
+    "name": "Aeroad CF SLX 8 AXS SPEED",
+    "discipline": "Road",
+    "category": "Aero race",
+    "price": {
+      "amount": 4719,
+      "currency": "USD",
+      "asOf": "owner list 2026-10",
+      "note": "was 6899"
+    },
+    "tagline": null,
+    "summary": "Canyon's aero road bike: streamlined tubes, integrated cockpit and aerodynamic seatpost. Tyre clearance up to 30 mm, per Canyon's category text.",
+    "facts": {
+      "Groupset": "SRAM Force AXS E1",
+      "Wheels": "Zipp 404 Firecrest Hookless",
+      "Frame": "Carbon (CF SLX)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Aeroad",
+    "slug": "aeroad-cf-slx-8-di2",
+    "name": "Aeroad CF SLX 8 Di2",
+    "discipline": "Road",
+    "category": "Aero race",
+    "price": {
+      "amount": 4749,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's aero road bike: streamlined tubes, integrated cockpit and aerodynamic seatpost. Tyre clearance up to 30 mm, per Canyon's category text.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2",
+      "Wheels": "DT Swiss ARC 1600",
+      "Frame": "Carbon (CF SLX)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Aeroad",
+    "slug": "aeroad-cf-slx-8-axs",
+    "name": "Aeroad CF SLX 8 AXS",
+    "discipline": "Road",
+    "category": "Aero race",
+    "price": {
+      "amount": 4749,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's aero road bike: streamlined tubes, integrated cockpit and aerodynamic seatpost. Tyre clearance up to 30 mm, per Canyon's category text.",
+    "facts": {
+      "Groupset": "SRAM Force AXS",
+      "Wheels": "Zipp 404 S",
+      "Frame": "Carbon (CF SLX)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Aeroad",
+    "slug": "aeroad-cf-slx-7-di2",
+    "name": "Aeroad CF SLX 7 Di2",
+    "discipline": "Road",
+    "category": "Aero race",
+    "price": {
+      "amount": 3549,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's aero road bike: streamlined tubes, integrated cockpit and aerodynamic seatpost. Tyre clearance up to 30 mm, per Canyon's category text.",
+    "facts": {
+      "Groupset": "Shimano 105 Di2",
+      "Wheels": "DT Swiss ARC 1600",
+      "Frame": "Carbon (CF SLX)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Ultimate",
+    "slug": "ultimate-cf-8-di2",
+    "name": "Ultimate CF 8 Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 3249,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's all-round race bike, with a D-shaped aero seatpost. Tyre clearance up to 32 mm, per Canyon.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2",
+      "Wheels": "Carbon wheels",
+      "Frame": "Carbon (CF)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Ultimate",
+    "slug": "ultimate-cf-slx-8-di2",
+    "name": "Ultimate CF SLX 8 Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 4349,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's all-round race bike, with a D-shaped aero seatpost. Tyre clearance up to 32 mm, per Canyon.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2",
+      "Wheels": "DT Swiss ARC 1400 carbon",
+      "Frame": "Carbon (CF SLX)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Ultimate",
+    "slug": "ultimate-cf-7",
+    "name": "Ultimate CF 7",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 2649,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's all-round race bike, with a D-shaped aero seatpost. Tyre clearance up to 32 mm, per Canyon.",
+    "facts": {
+      "Groupset": "Shimano 105 mechanical",
+      "Wheels": "Carbon wheels",
+      "Frame": "Carbon (CF)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Ultimate",
+    "slug": "ultimate-cf-7-di2",
+    "name": "Ultimate CF 7 Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 2899,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's all-round race bike, with a D-shaped aero seatpost. Tyre clearance up to 32 mm, per Canyon.",
+    "facts": {
+      "Groupset": "Shimano 105 Di2",
+      "Wheels": "Aluminium wheels",
+      "Frame": "Carbon (CF)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Ultimate",
+    "slug": "ultimate-cfr-di2",
+    "name": "Ultimate CFR Di2",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 7649,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "PACE bar",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2",
+      "Wheels": "DT Swiss ARC 1100 Dicut db",
+      "Frame": "Carbon (CFR)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Ultimate",
+    "slug": "ultimate-cfr-axs",
+    "name": "Ultimate CFR AXS",
+    "discipline": "Road",
+    "category": "Race",
+    "price": {
+      "amount": 7649,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "PACE bar",
+    "facts": {
+      "Groupset": "SRAM Red AXS",
+      "Wheels": "DT Swiss ARC 1100 Dicut db",
+      "Frame": "Carbon (CFR)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Endurace",
+    "slug": "endurace-allroad",
+    "name": "Endurace AllRoad",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 1099,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's endurance road bike: relaxed geometry and a longer wheelbase. Tyre clearance up to 35 mm, per Canyon. Select models have the VCLS leaf-spring seatpost.",
+    "facts": {
+      "Groupset": "Shimano CUES U6020-10",
+      "Wheels": "Aluminium wheels",
+      "Frame": "Aluminium (AL)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Endurace",
+    "slug": "endurace-cf-8-di2",
+    "name": "Endurace CF 8 Di2",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 3249,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's endurance road bike: relaxed geometry and a longer wheelbase. Tyre clearance up to 35 mm, per Canyon. Select models have the VCLS leaf-spring seatpost.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2",
+      "Wheels": "Canyon carbon wheels",
+      "Frame": "Carbon (CF)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Endurace",
+    "slug": "endurace-cfr-di2",
+    "name": "Endurace CFR Di2",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 7999,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's endurance road bike: relaxed geometry and a longer wheelbase. Tyre clearance up to 35 mm, per Canyon. Select models have the VCLS leaf-spring seatpost.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2",
+      "Wheels": "DT Swiss ARC 1100 65 mm",
+      "Frame": "Carbon (CFR)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Endurace",
+    "slug": "endurace-cf-slx-9-di2",
+    "name": "Endurace CF SLX 9 Di2",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 6549,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's endurance road bike: relaxed geometry and a longer wheelbase. Tyre clearance up to 35 mm, per Canyon. Select models have the VCLS leaf-spring seatpost.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2",
+      "Wheels": "DT Swiss ERC 1400 Dicut",
+      "Frame": "Carbon (CF SLX)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Endurace",
+    "slug": "endurace-cfr-axs",
+    "name": "Endurace CFR AXS",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 6179,
+      "currency": "USD",
+      "asOf": "owner list 2026-10",
+      "note": "was 7999"
+    },
+    "tagline": null,
+    "summary": "Canyon's endurance road bike: relaxed geometry and a longer wheelbase. Tyre clearance up to 35 mm, per Canyon. Select models have the VCLS leaf-spring seatpost.",
+    "facts": {
+      "Groupset": "SRAM Red AXS",
+      "Wheels": "DT Swiss ERC 1100 Dicut",
+      "Frame": "Carbon (CFR)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Endurace",
+    "slug": "endurace-cf-7",
+    "name": "Endurace CF 7",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 2199,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's endurance road bike: relaxed geometry and a longer wheelbase. Tyre clearance up to 35 mm, per Canyon. Select models have the VCLS leaf-spring seatpost.",
+    "facts": {
+      "Groupset": "Shimano 105",
+      "Wheels": "Carbon wheels",
+      "Frame": "Carbon (CF)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Endurace",
+    "slug": "endurace-cf-slx-8-di2",
+    "name": "Endurace CF SLX 8 Di2",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 3999,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's endurance road bike: relaxed geometry and a longer wheelbase. Tyre clearance up to 35 mm, per Canyon. Select models have the VCLS leaf-spring seatpost.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2",
+      "Wheels": "Carbon wheels",
+      "Frame": "Carbon (CF SLX)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Endurace",
+    "slug": "endurace-cf-6",
+    "name": "Endurace CF 6",
+    "discipline": "Road",
+    "category": "Endurance",
+    "price": {
+      "amount": 1479,
+      "currency": "USD",
+      "asOf": "owner list 2026-10",
+      "note": "was 1849"
+    },
+    "tagline": null,
+    "summary": "Canyon's endurance road bike: relaxed geometry and a longer wheelbase. Tyre clearance up to 35 mm, per Canyon. Select models have the VCLS leaf-spring seatpost.",
+    "facts": {
+      "Groupset": "Shimano Tiagra R4720",
+      "Wheels": "Aluminium wheels",
+      "Frame": "Carbon (CF)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Speedmax",
+    "slug": "speedmax-cf-8-di2-race",
+    "name": "Speedmax CF 8 Di2 Race",
+    "discipline": "Triathlon & TT",
+    "category": "Triathlon",
+    "price": {
+      "amount": 4349,
+      "currency": "USD",
+      "asOf": "owner list 2026-10",
+      "note": "was 5449"
+    },
+    "tagline": null,
+    "summary": "Canyon's triathlon and time-trial range, with integrated hydration and nutrition storage on some models.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2",
+      "Wheels": "DT Swiss ARC 1600 Spline",
+      "Frame": "Carbon (CF)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Speedmax",
+    "slug": "speedmax-cf-7-di2-race",
+    "name": "Speedmax CF 7 Di2 Race",
+    "discipline": "Triathlon & TT",
+    "category": "Triathlon",
+    "price": {
+      "amount": 5099,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Includes a hydration system",
+    "facts": {
+      "Groupset": "Shimano 105 Di2",
+      "Wheels": "DT Swiss ARC 1600 Spline",
+      "Frame": "Carbon (CF)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Speedmax",
+    "slug": "speedmax-cfr-di2",
+    "name": "Speedmax CFR Di2",
+    "discipline": "Triathlon & TT",
+    "category": "Triathlon",
+    "price": {
+      "amount": 10850,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's triathlon and time-trial range, with integrated hydration and nutrition storage on some models.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2",
+      "Wheels": "DT Swiss ARC 1100",
+      "Frame": "Carbon (CFR)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Speedmax",
+    "slug": "speedmax-cfr-axs",
+    "name": "Speedmax CFR AXS",
+    "discipline": "Triathlon & TT",
+    "category": "Triathlon",
+    "price": {
+      "amount": 10850,
+      "currency": "USD",
+      "asOf": "owner list 2026-10"
+    },
+    "tagline": null,
+    "summary": "Canyon's triathlon and time-trial range, with integrated hydration and nutrition storage on some models.",
+    "facts": {
+      "Groupset": "SRAM Red AXS",
+      "Wheels": "DT Swiss ARC 1100",
+      "Frame": "Carbon (CFR)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Speedmax",
+    "slug": "speedmax-cfr-tt",
+    "name": "Speedmax CFR TT",
+    "discipline": "Triathlon & TT",
+    "category": "Triathlon",
+    "price": {
+      "amount": 9449,
+      "currency": "USD",
+      "asOf": "owner list 2026-10",
+      "note": "was 10899"
+    },
+    "tagline": null,
+    "summary": "Canyon's triathlon and time-trial range, with integrated hydration and nutrition storage on some models.",
+    "facts": {
+      "Groupset": "Shimano Dura-Ace Di2",
+      "Wheels": "DT Swiss ARC 1100",
+      "Frame": "Carbon (CFR)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Speedmax",
+    "slug": "speedmax-cf-slx-7-di2",
+    "name": "Speedmax CF SLX 7 Di2",
+    "discipline": "Triathlon & TT",
+    "category": "Triathlon",
+    "price": {
+      "amount": 5799,
+      "currency": "USD",
+      "asOf": "owner list 2026-10",
+      "note": "was 6899"
+    },
+    "tagline": null,
+    "summary": "Canyon's triathlon and time-trial range, with integrated hydration and nutrition storage on some models.",
+    "facts": {
+      "Groupset": "Shimano 105 Di2",
+      "Frame": "Carbon (CF SLX)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "family": "Speedmax",
+    "slug": "speedmax-cf-slx-8-di2",
+    "name": "Speedmax CF SLX 8 Di2",
+    "discipline": "Triathlon & TT",
+    "category": "Triathlon",
+    "price": {
+      "amount": 6179,
+      "currency": "USD",
+      "asOf": "owner list 2026-10",
+      "note": "was 7999"
+    },
+    "tagline": null,
+    "summary": "Canyon's triathlon and time-trial range, with integrated hydration and nutrition storage on some models.",
+    "facts": {
+      "Groupset": "Shimano Ultegra Di2",
+      "Frame": "Carbon (CF SLX)"
+    },
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [
+      {
+        "label": "Supplied by the site owner"
+      }
+    ]
+  },
+  {
+    "brand": "canyon",
+    "slug": "speedmax-cfr",
+    "name": "Speedmax CFR",
+    "year": 2026,
+    "category": "Triathlon",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Axs",
+      "Di2"
+    ],
+    "family": "Speedmax CFR"
+  },
+  {
+    "brand": "canyon",
+    "slug": "ultimate-cfr",
+    "name": "Ultimate CFR",
+    "year": 2026,
+    "category": "Race",
+    "tagline": null,
+    "summary": null,
+    "price": null,
+    "facts": {},
+    "dataStatus": "basic",
+    "verifiedAt": null,
+    "sources": [],
+    "featured": false,
+    "variants": [
+      "Axs",
+      "Di2"
+    ],
+    "family": "Ultimate CFR"
+  }
+]

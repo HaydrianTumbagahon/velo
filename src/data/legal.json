@@ -1,0 +1,57 @@
+{
+  "placeholder": true,
+  "privacy": {
+    "title": "Privacy",
+    "sections": [
+      {
+        "heading": "About this site",
+        "text": "Velo is a static, independent showcase. It does not sell bikes or user data."
+      },
+      {
+        "heading": "Information you provide",
+        "text": "Information is collected only when you choose to enter it in the contact form. When a form endpoint is configured, the form sends its fields to that endpoint. Without one, it opens your email app so you can send the message."
+      },
+      {
+        "heading": "Local preferences",
+        "text": "The site stores your comparison selections and specification display preference in local browser storage. These values stay in your browser and can be cleared there."
+      },
+      {
+        "heading": "External links",
+        "text": "Bike brands and other sources link to websites operated by others. Their privacy practices are separate from Velo."
+      },
+      {
+        "heading": "Changes and questions",
+        "text": "This placeholder notice may be updated as the site changes. Contact Velo to ask about privacy or request a correction."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms",
+    "sections": [
+      {
+        "heading": "An independent showcase",
+        "text": "Velo is an independent reference site. It is not affiliated with or endorsed by the brands named here, and it does not sell bikes."
+      },
+      {
+        "heading": "Information on this site",
+        "text": "Specifications, availability and indicative prices are provided for comparison and may change. Check the linked brand or source before making a decision."
+      },
+      {
+        "heading": "Brand names and images",
+        "text": "Brand names identify products. Product names, images and other marks belong to their respective owners; image credits are shown where available."
+      },
+      {
+        "heading": "External websites",
+        "text": "Links to brand pages and sources are provided for reference. Velo does not control those websites or their content."
+      },
+      {
+        "heading": "Corrections",
+        "text": "If you find an error or believe material needs attention, contact Velo with the relevant page and details."
+      },
+      {
+        "heading": "Placeholder notice",
+        "text": "This plain-language summary is a placeholder, not legal advice. It should be reviewed before publication."
+      }
+    ]
+  }
+}

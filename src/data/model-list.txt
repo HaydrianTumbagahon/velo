@@ -1,0 +1,155 @@
+# Velo model list. One bike per line.
+# family | name | price USD | details   (details: key=value; key=value. Keys: cat, groupset, wheels, frame, was, note)
+# [brand] starts a block. "discipline X" sets the discipline for the lines below.
+# "@Family | category | note" is a family note. Blank price = unknown. Shown as supplied: verify before publishing.
+
+[canyon]
+discipline Road
+@Aeroad | Aero race | Canyon's aero road bike: streamlined tubes, integrated cockpit and aerodynamic seatpost. Tyre clearance up to 30 mm, per Canyon's category text.
+Aeroad | Aeroad CFR AXS | 7999 | groupset=SRAM Red AXS; wheels=DT Swiss ARC 1100; frame=Carbon (CFR)
+Aeroad | Aeroad CFR Di2 | 7999 | groupset=Shimano Dura-Ace Di2; wheels=DT Swiss ARC 1100; frame=Carbon (CFR)
+Aeroad | Aeroad CF SLX 8 AXS SPEED | 4719 | groupset=SRAM Force AXS E1; wheels=Zipp 404 Firecrest Hookless; frame=Carbon (CF SLX); was=6899
+Aeroad | Aeroad CF SLX 8 Di2 | 4749 | groupset=Shimano Ultegra Di2; wheels=DT Swiss ARC 1600; frame=Carbon (CF SLX)
+Aeroad | Aeroad CF SLX 8 AXS | 4749 | groupset=SRAM Force AXS; wheels=Zipp 404 S; frame=Carbon (CF SLX)
+Aeroad | Aeroad CF SLX 7 Di2 | 3549 | groupset=Shimano 105 Di2; wheels=DT Swiss ARC 1600; frame=Carbon (CF SLX)
+@Ultimate | Race | Canyon's all-round race bike, with a D-shaped aero seatpost. Tyre clearance up to 32 mm, per Canyon.
+Ultimate | Ultimate CF 8 Di2 | 3249 | groupset=Shimano Ultegra Di2; wheels=Carbon wheels; frame=Carbon (CF)
+Ultimate | Ultimate CF SLX 8 Di2 | 4349 | groupset=Shimano Ultegra Di2; wheels=DT Swiss ARC 1400 carbon; frame=Carbon (CF SLX)
+Ultimate | Ultimate CF 7 | 2649 | groupset=Shimano 105 mechanical; wheels=Carbon wheels; frame=Carbon (CF)
+Ultimate | Ultimate CF 7 Di2 | 2899 | groupset=Shimano 105 Di2; wheels=Aluminium wheels; frame=Carbon (CF)
+Ultimate | Ultimate CFR Di2 | 7649 | groupset=Shimano Dura-Ace Di2; wheels=DT Swiss ARC 1100 Dicut db; frame=Carbon (CFR); note=PACE bar
+Ultimate | Ultimate CFR AXS | 7649 | groupset=SRAM Red AXS; wheels=DT Swiss ARC 1100 Dicut db; frame=Carbon (CFR); note=PACE bar
+@Endurace | Endurance | Canyon's endurance road bike: relaxed geometry and a longer wheelbase. Tyre clearance up to 35 mm, per Canyon. Select models have the VCLS leaf-spring seatpost.
+Endurace | Endurace AllRoad | 1099 | groupset=Shimano CUES U6020-10; wheels=Aluminium wheels; frame=Aluminium (AL)
+Endurace | Endurace CF 8 Di2 | 3249 | groupset=Shimano Ultegra Di2; wheels=Canyon carbon wheels; frame=Carbon (CF)
+Endurace | Endurace CFR Di2 | 7999 | groupset=Shimano Dura-Ace Di2; wheels=DT Swiss ARC 1100 65 mm; frame=Carbon (CFR)
+Endurace | Endurace CF SLX 9 Di2 | 6549 | groupset=Shimano Dura-Ace Di2; wheels=DT Swiss ERC 1400 Dicut; frame=Carbon (CF SLX)
+Endurace | Endurace CFR AXS | 6179 | groupset=SRAM Red AXS; wheels=DT Swiss ERC 1100 Dicut; frame=Carbon (CFR); was=7999
+Endurace | Endurace CF 7 | 2199 | groupset=Shimano 105; wheels=Carbon wheels; frame=Carbon (CF)
+Endurace | Endurace CF SLX 8 Di2 | 3999 | groupset=Shimano Ultegra Di2; wheels=Carbon wheels; frame=Carbon (CF SLX)
+Endurace | Endurace CF 6 | 1479 | groupset=Shimano Tiagra R4720; wheels=Aluminium wheels; frame=Carbon (CF); was=1849
+discipline Triathlon & TT
+@Speedmax | Triathlon | Canyon's triathlon and time-trial range, with integrated hydration and nutrition storage on some models.
+Speedmax | Speedmax CF 8 Di2 Race | 4349 | groupset=Shimano Ultegra Di2; wheels=DT Swiss ARC 1600 Spline; frame=Carbon (CF); was=5449
+Speedmax | Speedmax CF 7 Di2 Race | 5099 | groupset=Shimano 105 Di2; wheels=DT Swiss ARC 1600 Spline; frame=Carbon (CF); note=Includes a hydration system
+Speedmax | Speedmax CFR Di2 | 10850 | groupset=Shimano Dura-Ace Di2; wheels=DT Swiss ARC 1100; frame=Carbon (CFR)
+Speedmax | Speedmax CFR AXS | 10850 | groupset=SRAM Red AXS; wheels=DT Swiss ARC 1100; frame=Carbon (CFR)
+Speedmax | Speedmax CFR TT | 9449 | groupset=Shimano Dura-Ace Di2; wheels=DT Swiss ARC 1100; frame=Carbon (CFR); was=10899
+Speedmax | Speedmax CF SLX 7 Di2 | 5799 | groupset=Shimano 105 Di2; frame=Carbon (CF SLX); was=6899
+Speedmax | Speedmax CF SLX 8 Di2 | 6179 | groupset=Shimano Ultegra Di2; frame=Carbon (CF SLX); was=7999
+
+[factor]
+discipline Road
+ONE SP | ONE SP | 12799 | cat=Aero race; note=The ONE platform set up for time trials and triathlon with the dedicated ONE SP Bar; road-like handling with a full aero TT position; up to 34 mm tyres
+ONE | ONE | 11999 | cat=Aero race; note=Flagship aero road race bike with a Bayonet fork and chin fairing; the brand claims it is the fastest UCI-legal road bike; special editions exist
+OSTRO VAM | OSTRO VAM | 10399 | cat=Aero race; note=Lightweight aero all-rounder with sub-7 kg potential; climbs, sprints and handles cobbles; raced in the WorldTour
+MONZA | MONZA | 6999 | cat=Race; note=The more accessible aero race bike, inspired by the OSTRO VAM; in-frame storage, slightly more upright geometry, good tyre clearance; Rapha Edition from $7,099
+O2 VAM | O2 VAM | 11299 | cat=Climbing; note=Lightweight aero climbing bike; pro builds sit near the UCI minimum weight
+ONE SpongeBob Edition | ONE SpongeBob Edition | 12299 | cat=Aero race; note=Limited edition ONE with SpongeBob SquarePants and Patrick Star graphics (Mighty Jaxx collaboration); raced at the 2026 Tour de France Femmes
+Bugatti Factor ONE | Bugatti Factor ONE | 23599 | cat=Aero race; note=Limited run of 250 units; hypercar collaboration version of the ONE; highest-spec build
+discipline Gravel
+ELARA | ELARA | 10099 | cat=Aero gravel; note=Race-speed aero gravel bike with road-derived geometry and a ONE-inspired wide fork; tyres up to 57 mm; 2x compatible; replaces the OSTRO Gravel
+SARANA | SARANA | 8699 | cat=Gravel race; note=Race-endurance gravel bike for ultra-distance and self-supported events; wide tyre clearance
+ALUTO | ALUTO | 7899 | cat=Gravel; note=Versatile gravel bike, agile on mixed terrain, with in-frame storage and a higher stack
+discipline Mountain
+Lando XC Fox | Lando XC Fox | 9899 | cat=Cross-country; note=Full-suspension XC bike with about 120 mm front and 115 mm rear travel; progressive race geometry; carbon; 29er
+Lando HT | Lando HT | 7099 | cat=Cross-country; note=Hardtail XC bike; claimed frame weight about 850 g; 110 mm fork or rigid; 29er; tyres to about 2.4 inches
+discipline Triathlon & TT
+SLiCK | SLiCK | 7999 | cat=Triathlon; note=Dedicated triathlon bike with nutrition storage, bento box mounts and in-frame storage
+HANZŌ | HANZŌ | 11499 | cat=Time trial; note=UCI time-trial bike with a very narrow front end and high stiffness; a WorldTour TT machine
+discipline Track
+HANZŌ Track | HANZŌ Track | 11299 | cat=Pursuit; note=Pursuit track bike used by the Australian team at Paris 2024
+HANZŌ Track Paris Edition | HANZŌ Track Paris Edition | | cat=Pursuit; note=Special Olympic edition of the HANZŌ Track
+RAIDEN | RAIDEN | 7399 | cat=Mass start; note=Mass-start track bike for sprint, Madison, omnium and points races; HANZŌ Track aerodynamics with easier group-racing handling
+
+[pinarello]
+discipline Road
+@Dogma F | Race | Pinarello's top race bike and the INEOS Grenadiers WorldTour bike. Asymmetric design, M40X and T1100 carbon, about 30–32 mm tyre clearance.
+Dogma F | Dogma F Dura-Ace Di2 | | groupset=Shimano Dura-Ace Di2
+Dogma F | Dogma F SRAM Red eTap AXS | | groupset=SRAM Red eTap AXS
+Dogma F | Dogma F Super Record 13 | | groupset=Campagnolo Super Record 13
+Dogma F | Dogma F Super Record WRL | | groupset=Campagnolo Super Record WRL
+Dogma F | Dogma F 1K | | note=Premium, luxury version
+Dogma F | Dogma F Edizione Speciale Tissot | | note=Special edition
+Dogma F | Dogma F Edizione Speciale Giro 50 | | note=Special edition
+Dogma F | Dogma F Ineos Team Replica | | note=Team replica
+Dogma F | Dogma F PQ3 Team Replica | | note=Team replica
+@F Series | Race | The more accessible race platform. Dogma F design DNA (asymmetric frame, Onda fork, aero keel) with lower carbon grades: T900 on higher models, T700 and T600 below. Up to about 32 mm tyres.
+F Series | F9 Dura-Ace Di2 | | groupset=Shimano Dura-Ace Di2
+F Series | F7 SRAM Force AXS | | groupset=SRAM Force AXS
+F Series | F7 Ultegra Di2 | | groupset=Shimano Ultegra Di2
+F Series | F5 105 Di2 | | groupset=Shimano 105 Di2
+F Series | F3 105 Di2 | | groupset=Shimano 105 Di2
+F Series | F1 105 | | groupset=Shimano 105
+@Dogma X | Endurance | The endurance Dogma: higher stack, shorter reach, more compliance and about 35–40 mm of tyre clearance.
+Dogma X | Dogma X Dura-Ace Di2 | | groupset=Shimano Dura-Ace Di2
+Dogma X | Dogma X SRAM Red eTap AXS | | groupset=SRAM Red eTap AXS
+Dogma X | Dogma X Super Record 13 | | groupset=Campagnolo Super Record 13
+Dogma X | Dogma X Super Record WRL | | groupset=Campagnolo Super Record WRL
+@X Series | Endurance | The more accessible endurance platform, derived from the Dogma X, with different carbon grades by level. More upright, wider tyre clearance.
+X Series | X9 Dura-Ace Di2 | | groupset=Shimano Dura-Ace Di2
+X Series | X9 SRAM Red AXS | | groupset=SRAM Red AXS
+X Series | X7 Ultegra Di2 | | groupset=Shimano Ultegra Di2
+X Series | X5 105 Di2 | | groupset=Shimano 105 Di2
+X Series | X3 105 Di2 | | groupset=Shimano 105 Di2
+X Series | X1 105 | | groupset=Shimano 105
+@Bolide | Time trial | Pinarello's hour-record, time-trial, triathlon and track family.
+discipline Track
+Bolide | Bolide F HR 3D | | cat=Hour record; note=Hour Record focus, 3D-printed elements
+Bolide | Bolide F HR 3D Replica | | cat=Hour record
+Bolide | Bolide F HR C | | cat=Hour record; note=The carbon version for the track
+Bolide | Bolide HR | | cat=Hour record; note=The classic Hour Record bike
+Bolide | Maat Italia S | | cat=Track
+discipline Triathlon & TT
+Bolide | Bolide F TT | | cat=Time trial; note=Time-trial version
+Bolide | Bolide F TR Framekit | | cat=Triathlon; note=Dedicated triathlon bike
+discipline Cyclocross
+@Crossista | Cyclocross | Cyclocross bikes for mud and obstacles.
+Crossista | Crossista F9 | |
+Crossista | Crossista F7 | |
+discipline E-Road
+@Nytro | E-road | Power-assisted road bikes.
+Nytro | Nytro E9 Road Dura-Ace Di2 | | groupset=Shimano Dura-Ace Di2
+Nytro | Nytro E7 Road Ultegra Di2 | | groupset=Shimano Ultegra Di2
+Nytro | Nytro E5 Road 105 Di2 | | groupset=Shimano 105 Di2
+
+[specialized]
+discipline Road
+@Tarmac SL9 | Race | The current race platform: aggressive geometry, aero and light. S-Works is the top tier; S-Level, Expert and Comp step down in spec.
+Tarmac SL9 | S-Works Tarmac SL9 LTD | 14999.99 | note=Remco Evenepoel "Built for Legends" edition
+Tarmac SL9 | S-Works Tarmac SL9 SRAM RED AXS | 13999.99 | groupset=SRAM RED AXS
+Tarmac SL9 | S-Works Tarmac SL9 Dura-Ace Di2 | 13499.99 | groupset=Shimano Dura-Ace Di2
+Tarmac SL9 | Tarmac SL9 S-Level Dura-Ace Di2 | 9999.99 | groupset=Shimano Dura-Ace Di2
+Tarmac SL9 | Tarmac SL9 S-Level SRAM RED AXS | 10499.99 | groupset=SRAM RED AXS
+Tarmac SL9 | Tarmac SL9 Expert SRAM Force AXS | 6999.99 | groupset=SRAM Force AXS
+Tarmac SL9 | Tarmac SL9 Expert Ultegra Di2 | 6499.99 | groupset=Shimano Ultegra Di2
+Tarmac SL9 | Tarmac SL9 Comp SRAM Rival AXS | 4499.99 | groupset=SRAM Rival AXS
+Tarmac SL9 | Tarmac SL9 Comp 105 Di2 | 4199.99 | groupset=Shimano 105 Di2
+@Aethos 2 | Climbing | Ultra-lightweight climbing road bike: minimal weight and ride quality over pure aero.
+Aethos 2 | S-Works Aethos 2 SRAM RED AXS | 13999.99 | groupset=SRAM RED AXS
+Aethos 2 | S-Works Aethos 2 Dura-Ace Di2 | 13999.99 | groupset=Shimano Dura-Ace Di2
+Aethos 2 | Aethos 2 Pro SRAM Force AXS | 8499.99 | groupset=SRAM Force AXS
+Aethos 2 | Aethos 2 Pro Ultegra Di2 | 8499.99 | groupset=Shimano Ultegra Di2
+Aethos 2 | Aethos 2 Expert SRAM Force AXS | 6999.99 | groupset=SRAM Force AXS
+Aethos 2 | Aethos 2 Expert Ultegra Di2 | 6499.99 | groupset=Shimano Ultegra Di2
+@Roubaix SL8 | Endurance | Endurance road bike with Future Shock suspension, a higher stack, more compliance and more tyre clearance for all-day comfort and rough roads.
+Roubaix SL8 | S-Works Roubaix SL8 SRAM RED AXS | 12499.99 | groupset=SRAM RED AXS; note=Also listed at $12,249.99
+Roubaix SL8 | S-Works Roubaix SL8 Dura-Ace Di2 | 12249.99 | groupset=Shimano Dura-Ace Di2
+Roubaix SL8 | Roubaix SL8 Pro SRAM Force AXS | 8499.99 | groupset=SRAM Force AXS
+Roubaix SL8 | Roubaix SL8 Expert SRAM Force AXS | 6499.99 | groupset=SRAM Force AXS
+Roubaix SL8 | Roubaix SL8 Comp 105 Di2 | 4199.99 | groupset=Shimano 105 Di2
+Roubaix SL8 | Roubaix SL8 Sport 105 | 3499.99 | groupset=Shimano 105
+Roubaix SL8 | Roubaix SL8 Tiagra | 2999.99 | groupset=Shimano Tiagra
+discipline E-Road
+@Turbo Creo 2 | E-road | Lightweight e-road and gravel-capable bike with Specialized's Turbo motor system, for mixed surfaces and longer rides.
+Turbo Creo 2 | S-Works Turbo Creo 2 SRAM RED XX1 Eagle AXS | 13499.99 | groupset=SRAM RED / XX1 Eagle AXS; note=Also listed at $12,799.99
+Turbo Creo 2 | Turbo Creo 2 Expert Shimano GRX Di2 | 8999.99 | groupset=Shimano GRX Di2; note=Also listed at $8,549.99
+Turbo Creo 2 | Turbo Creo 2 Comp Shimano GRX Di2 | 6999.99 | groupset=Shimano GRX Di2
+Turbo Creo 2 | Turbo Creo 2 Comp SRAM Apex X1 Eagle AXS | 5599.99 | groupset=SRAM Apex / X1 Eagle AXS
+Turbo Creo 2 | Turbo Creo 2 Comp E5 SRAM Apex Eagle | 5099.99 | groupset=SRAM Apex Eagle; note=Also listed at $4,499.99
+discipline Road
+@Allez | Entry | Aluminium road bikes: Specialized's entry and training options.
+Allez | Allez Comp 105 | 2099.99 | groupset=Shimano 105
+Allez | Allez CUES | 1599.99 | groupset=Shimano CUES
+@Tarmac SL7 | Race | The previous-generation race platform, still listed.
+Tarmac SL7 | Tarmac SL7 Sport 105 | 3299.99 | groupset=Shimano 105; note=Starting at

@@ -1,0 +1,50 @@
+# Dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+coverage/
+assets-src/
+asset-src/
+
+# Environment and deployment
+.env
+.env.*
+!.env.example
+.vercel/
+.netlify/
+.npmrc
+.mcp.json
+mcp.json
+
+# Logs and local files
+*.log
+*.local
+.DS_Store
+Thumbs.db
+npm-debug.log*
+
+# Editor settings
+.vscode/
+.idea/
+.claude/
+.cursor/
+.copilot/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Credentials, generated reports and source media
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+id_rsa*
+docs/image-inventory.txt
+*.zip
+*.psd
+*.tif
+*.tiff
+*.tsbuildinfo

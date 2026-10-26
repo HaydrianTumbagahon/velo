@@ -1,0 +1,91 @@
+{
+  "Frame": {
+    "group": "Frame",
+    "text": "The bike's main structure. Carbon is light and stiff, which is why it's the norm at this level."
+  },
+  "Weight": {
+    "group": "Frame",
+    "text": "Lighter bikes climb more easily and feel livelier. Brands usually quote a mid-size frame."
+  },
+  "Tyre clearance": {
+    "group": "Wheels and tyres",
+    "text": "The widest tyre that fits. More room means more comfort and grip."
+  },
+  "Tyres": {
+    "group": "Wheels and tyres",
+    "text": "Wider tyres run at lower pressure, which feels smoother and grips better."
+  },
+  "Wheels": {
+    "group": "Wheels and tyres",
+    "text": "Deeper rims are faster on flat roads and in wind. Shallower ones are lighter and calmer in crosswinds."
+  },
+  "Brakes": {
+    "group": "Wheels and tyres",
+    "text": "Hydraulic disc brakes stop strongly and predictably, including in the wet."
+  },
+  "Groupset": {
+    "group": "Drivetrain",
+    "text": "The gears and shifting. Electronic shifting changes gear at a button press and stays perfectly adjusted."
+  },
+  "Cockpit": {
+    "group": "Fit",
+    "text": "Handlebar and stem. Integrated ones are cleaner and more aerodynamic, but harder to adjust."
+  },
+  "Sizes": {
+    "group": "Fit",
+    "text": "Brands label sizes differently. Use the brand's size guide with your height and inseam."
+  },
+  "Rider height (cm)": {
+    "group": "Fit",
+    "text": "The brand's suggested height range for each size. A starting point only."
+  },
+  "Stack (mm)": {
+    "group": "Geometry",
+    "text": "The height of the front end. Higher means a more upright, comfortable position."
+  },
+  "Reach (mm)": {
+    "group": "Geometry",
+    "text": "The distance from the saddle area to the handlebars. Longer is more stretched out."
+  },
+  "Head angle (°)": {
+    "group": "Geometry",
+    "text": "A steeper angle steers quicker. A slacker one feels calmer."
+  },
+  "Seat angle (°)": {
+    "group": "Geometry",
+    "text": "A steeper angle puts you further forward over the pedals."
+  },
+  "Head tube (mm)": {
+    "group": "Geometry",
+    "text": "A taller head tube raises the handlebars without spacers."
+  },
+  "BB height (mm)": { "group": "Geometry", "text": "How high the cranks sit above the ground." },
+  "BB drop (mm)": {
+    "group": "Geometry",
+    "text": "How far the cranks sit below the wheel axles. More drop feels more stable."
+  },
+  "Chainstay (mm)": {
+    "group": "Geometry",
+    "text": "Shorter feels more agile. Longer feels steadier and leaves room for wider tyres."
+  },
+  "Wheelbase (mm)": {
+    "group": "Geometry",
+    "text": "The distance between the axles. Longer is steadier, shorter is more agile."
+  },
+  "Trail (mm)": {
+    "group": "Geometry",
+    "text": "Affects steering feel. More trail is steadier, less is quicker."
+  },
+  "Fork rake (mm)": {
+    "group": "Geometry",
+    "text": "The forward offset of the front axle. It works with the head angle to set the steering."
+  },
+  "Front centre (mm)": {
+    "group": "Geometry",
+    "text": "The distance from the cranks to the front axle."
+  },
+  "Standover (mm)": {
+    "group": "Geometry",
+    "text": "The top-tube height you stand over. It matters when mounting and dismounting."
+  }
+}
